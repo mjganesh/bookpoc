@@ -1,0 +1,17 @@
+C:\Users\GANESH M J\source\repos\bookpoc\Book.Infrastructure\bin\Debug\netcoreapp3.1\Book.Infrastructure.deps.json
+C:\Users\GANESH M J\source\repos\bookpoc\Book.Infrastructure\bin\Debug\netcoreapp3.1\Book.Infrastructure.dll
+C:\Users\GANESH M J\source\repos\bookpoc\Book.Infrastructure\bin\Debug\netcoreapp3.1\Book.Infrastructure.pdb
+C:\Users\GANESH M J\source\repos\bookpoc\Book.Infrastructure\obj\Debug\netcoreapp3.1\Book.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\GANESH M J\source\repos\bookpoc\Book.Infrastructure\obj\Debug\netcoreapp3.1\Book.Infrastructure.AssemblyInfo.cs
+C:\Users\GANESH M J\source\repos\bookpoc\Book.Infrastructure\obj\Debug\netcoreapp3.1\Book.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\GANESH M J\source\repos\bookpoc\Book.Infrastructure\obj\Debug\netcoreapp3.1\Book.Infrastructure.dll
+C:\Users\GANESH M J\source\repos\bookpoc\Book.Infrastructure\obj\Debug\netcoreapp3.1\Book.Infrastructure.pdb
+C:\Users\GANESH M J\source\repos\TestProject\bookpoc\Book.Infrastructure\bin\Debug\netcoreapp3.1\Book.Infrastructure.deps.json
+C:\Users\GANESH M J\source\repos\TestProject\bookpoc\Book.Infrastructure\bin\Debug\netcoreapp3.1\Book.Infrastructure.dll
+C:\Users\GANESH M J\source\repos\TestProject\bookpoc\Book.Infrastructure\bin\Debug\netcoreapp3.1\Book.Infrastructure.pdb
+C:\Users\GANESH M J\source\repos\TestProject\bookpoc\Book.Infrastructure\obj\Debug\netcoreapp3.1\Book.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\GANESH M J\source\repos\TestProject\bookpoc\Book.Infrastructure\obj\Debug\netcoreapp3.1\Book.Infrastructure.AssemblyInfo.cs
+C:\Users\GANESH M J\source\repos\TestProject\bookpoc\Book.Infrastructure\obj\Debug\netcoreapp3.1\Book.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\GANESH M J\source\repos\TestProject\bookpoc\Book.Infrastructure\obj\Debug\netcoreapp3.1\Book.Infrastructure.dll
+C:\Users\GANESH M J\source\repos\TestProject\bookpoc\Book.Infrastructure\obj\Debug\netcoreapp3.1\Book.Infrastructure.pdb
+C:\Users\GANESH M J\source\repos\TestProject\bookpoc\Book.Infrastructure\obj\Debug\netcoreapp3.1\Book.Infrastructure.csprojAssemblyReference.cache
